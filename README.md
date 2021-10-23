@@ -10,7 +10,7 @@
 * 创建后会跳转开机，点击右上 Cloud Shell 即可进入机器
 
 ## V2ray 安装脚本
-* wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/ssaa761961/IBM-V2ray/master/install.sh && chmod +x install.sh  && ./install.sh
+* wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/ssaa761961/23-IBM-V2ray/master/install.sh && chmod +x install.sh  && ./install.sh
 * 安装完后会输出 Vmess的链接,复制导入V2即可
 
 ## 安装说明
